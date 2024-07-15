@@ -198,7 +198,7 @@ Encore Data Engineering과정
      - 사전 학습 모델 사용으로 학습 시간 단축이 가능
 
 3. LangChain을 활용한 챗봇 생성하기
-   [Link](https://github.com/KOO-96/LangChain__Studying)를 통해 이론과 사용한 부분을 정리하고 있습니다. (현재 진행)
+   - [Link](https://github.com/KOO-96/LangChain__Studying)를 통해 이론과 사용한 부분을 정리하고 있습니다. (현재 진행)
 --- 
 
 ## 🚀 프로젝트 방향성
